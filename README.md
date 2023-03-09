@@ -1,5 +1,5 @@
 <!-- Heading -->
-<br><h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> Hi there! I'm Thaís Barros Alvim</h3>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> Hi there! I'm Thaís Barros Alvim</h3>
 <h3 align="center">Backend Developer Skilled in Database Design and Creation and Consuming of RESTful APIs</h3>
 
 
