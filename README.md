@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently interning on **Solucionar Sistemas Integrados**
 
-- 👨‍🎓 I'm currently studying for a degree in Computer Engineering at UNIFEI Itabira Campus
+- 👨‍🎓 I'm studying for a degree in **Computer Engineering at UNIFEI Itabira Campus**
 
-- 📚 I’m currently improving my knowledge about **JavaScript**
+- 📚 I'm working on improving my understanding of **JavaScript**
 
 - 💬 Ask me about **Python, Django and database modeling**
 
