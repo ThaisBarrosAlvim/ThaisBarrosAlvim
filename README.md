@@ -6,7 +6,7 @@
 
 ### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="28px" height="28px"></img> About Me </h2>
 
-- 🔭 I’m currently interning on **Solucionar Sistemas Integrados**
+- 🔭 I’m currently working on **Indicium**
 
 - 👨‍🎓 I'm studying for a degree in **Computer Engineering at UNIFEI Itabira Campus**
 
